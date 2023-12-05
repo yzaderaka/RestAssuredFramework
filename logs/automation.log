@@ -1,0 +1,101 @@
+[INFO ] 2023-12-03 18:37:56.717 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 18:37:59.453 [main] Tests -  User is created 
+[INFO ] 2023-12-03 18:38:52.387 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 18:38:54.628 [main] Tests -  User is created 
+[INFO ] 2023-12-03 18:38:54.643 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 18:38:58.863 [main] Tests -  Token is created 
+[INFO ] 2023-12-03 18:38:58.866 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 18:38:59.488 [main] Tests -  Employee created 
+[INFO ] 2023-12-03 18:38:59.490 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 18:39:00.077 [main] Tests -  Employee info is displayed 
+[INFO ] 2023-12-03 18:39:00.080 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 18:39:01.306 [main] Tests -  All Employees is displayed 
+[INFO ] 2023-12-03 18:39:01.309 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 18:39:01.599 [main] Tests -  Status is displayed 
+[INFO ] 2023-12-03 18:39:01.601 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 18:39:04.336 [main] Tests -  JobTitle is displayed 
+[INFO ] 2023-12-03 18:39:04.339 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 18:39:08.346 [main] Tests -  Employee updated 
+[INFO ] 2023-12-03 18:39:08.348 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 18:39:09.293 [main] Tests -  Employee deleted 
+[INFO ] 2023-12-03 18:40:45.448 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 18:40:47.655 [main] Tests -  User is created 
+[INFO ] 2023-12-03 18:40:47.660 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 18:40:49.718 [main] Tests -  Token is created 
+[INFO ] 2023-12-03 18:40:49.720 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 18:40:50.211 [main] Tests -  Employee created 
+[INFO ] 2023-12-03 18:40:50.213 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 18:40:50.978 [main] Tests -  Employee info is displayed 
+[INFO ] 2023-12-03 18:40:50.980 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 18:40:51.899 [main] Tests -  All Employees is displayed 
+[INFO ] 2023-12-03 18:40:51.901 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 18:40:52.331 [main] Tests -  Status is displayed 
+[INFO ] 2023-12-03 18:40:52.332 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 18:40:53.301 [main] Tests -  JobTitle is displayed 
+[INFO ] 2023-12-03 18:40:53.303 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 18:40:54.163 [main] Tests -  Employee updated 
+[INFO ] 2023-12-03 18:40:54.165 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 18:40:54.972 [main] Tests -  Employee deleted 
+[INFO ] 2023-12-03 18:42:21.668 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 18:42:23.831 [main] Tests -  User is created 
+[INFO ] 2023-12-03 18:42:23.853 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 18:42:24.768 [main] Tests -  Token is created 
+[INFO ] 2023-12-03 18:42:24.770 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 18:42:25.259 [main] Tests -  Employee created 
+[INFO ] 2023-12-03 18:42:25.262 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 18:42:25.904 [main] Tests -  Employee info is displayed 
+[INFO ] 2023-12-03 18:42:25.906 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 18:42:27.133 [main] Tests -  All Employees is displayed 
+[INFO ] 2023-12-03 18:42:27.135 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 18:42:27.479 [main] Tests -  Status is displayed 
+[INFO ] 2023-12-03 18:42:27.481 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 18:42:28.353 [main] Tests -  JobTitle is displayed 
+[INFO ] 2023-12-03 18:42:28.355 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 18:42:29.227 [main] Tests -  Employee updated 
+[INFO ] 2023-12-03 18:42:29.229 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 18:42:29.987 [main] Tests -  Employee deleted 
+[INFO ] 2023-12-03 19:01:41.781 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 19:01:47.221 [main] Tests -  User is created 
+[INFO ] 2023-12-03 19:01:47.232 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 19:01:52.047 [main] Tests -  Token is created 
+[INFO ] 2023-12-03 19:01:52.050 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 19:01:52.548 [main] Tests -  Employee created 
+[INFO ] 2023-12-03 19:01:52.550 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 19:01:53.303 [main] Tests -  Employee info is displayed 
+[INFO ] 2023-12-03 19:01:53.305 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 19:01:54.325 [main] Tests -  All Employees is displayed 
+[INFO ] 2023-12-03 19:01:54.328 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 19:01:54.837 [main] Tests -  Status is displayed 
+[INFO ] 2023-12-03 19:01:54.839 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 19:02:01.422 [main] Tests -  JobTitle is displayed 
+[INFO ] 2023-12-03 19:02:01.425 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 19:02:02.518 [main] Tests -  Employee updated 
+[INFO ] 2023-12-03 19:02:02.520 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 19:02:03.327 [main] Tests -  Employee deleted 
+[INFO ] 2023-12-03 19:05:27.715 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 19:05:29.971 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 19:05:30.523 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 19:05:30.530 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 19:05:30.534 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 19:05:30.537 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 19:05:30.540 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 19:05:30.544 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 19:05:30.548 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 19:06:31.098 [main] Tests -  Creating User 
+[INFO ] 2023-12-03 19:06:33.563 [main] Tests -  User is created 
+[INFO ] 2023-12-03 19:06:33.576 [main] Tests -  Creating token 
+[INFO ] 2023-12-03 19:06:35.344 [main] Tests -  Token is created 
+[INFO ] 2023-12-03 19:06:35.347 [main] Tests -  Creating Employee 
+[INFO ] 2023-12-03 19:06:35.974 [main] Tests -  Employee created 
+[INFO ] 2023-12-03 19:06:35.977 [main] Tests -  Reading Employee by ID 
+[INFO ] 2023-12-03 19:06:36.564 [main] Tests -  Employee info is displayed 
+[INFO ] 2023-12-03 19:06:36.566 [main] Tests -  Reading all Employees 
+[INFO ] 2023-12-03 19:06:37.656 [main] Tests -  All Employees is displayed 
+[INFO ] 2023-12-03 19:06:37.658 [main] Tests -  Reading Employees Status 
+[INFO ] 2023-12-03 19:06:38.139 [main] Tests -  Status is displayed 
+[INFO ] 2023-12-03 19:06:38.141 [main] Tests -  Reading Employees jobTitle 
+[INFO ] 2023-12-03 19:06:39.150 [main] Tests -  JobTitle is displayed 
+[INFO ] 2023-12-03 19:06:39.152 [main] Tests -  Updating Employee by ID 
+[INFO ] 2023-12-03 19:06:40.164 [main] Tests -  Employee updated 
+[INFO ] 2023-12-03 19:06:40.166 [main] Tests -  Deleting Employee by ID 
+[INFO ] 2023-12-03 19:06:41.171 [main] Tests -  Employee deleted 

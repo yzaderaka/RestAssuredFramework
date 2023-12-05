@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/yzaderaka/Desktop/java/RestAssuredFramework/src/test/java/test">
+        <classes><class name="test.Tests">
+            <methods><include name="createUser"/>
+                <include name="getToken"/>
+                <include name="createEmployee"/>
+                <include name="getEmployeeByID"/>
+                <include name="getAllEmployees"/>
+                <include name="getEmployeeStatus"/>
+                <include name="getEmployeeJobTitle"/>
+                <include name="updateEmployee"/>
+                <include name="deleteEmployee"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+</suite>
